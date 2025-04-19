@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890298492825",
+    "project_id": "homework4-c0e35",
+    "storage_bucket": "homework4-c0e35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890298492825:android:3f0d6715a3f1db81309508",
+        "android_client_info": {
+          "package_name": "com.example.message_board_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEl4OdP7i7fxcXIlZjy0q4ynczk10p-ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
